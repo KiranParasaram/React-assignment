@@ -43,5 +43,4 @@ class Assignment1 extends React.Component{
   }
 }
 
-
 export default Assignment1
