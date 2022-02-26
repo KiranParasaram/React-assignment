@@ -1,7 +1,8 @@
 import React from 'react'
 import FunctionComponent from './FunctionComponent'
 import ClassComponent from './ClassComponent'
-import Nocomponent from './Nocomponent'
+
+
 
 
 class Assignment1 extends React.Component{
